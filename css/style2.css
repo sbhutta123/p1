@@ -28,7 +28,7 @@ header {
     left: 0;
     width: 100%;
     z-index: 1000;
-    background: #655560;
+    background: #7f8f75;
     padding: 20px;
     text-align: center;
 
@@ -40,7 +40,7 @@ header {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #655560;
+    background-color: #8ec38b;
     color: white;
     text-align: center;
     padding: 14px 16px;
